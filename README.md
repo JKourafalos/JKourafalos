@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, my name is Yiannis !
+I'm a mathematics graduate and aspiring machine vision engineer based in Greece 🇬🇷
 
-<!--
-**JKourafalos/JKourafalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently attending the Computer Vision master program at the University of Crete  
+🧠 Passionate about Computer Vision, AI, and applied research  
+🧪 Exploring: Deep Learning, Object Detection and Tracking, and Generative Ai
+💼 Looking for: Internship / Part-time roles in computer vision, R&D, or data science  
+💬 I speak Python, NumPy, Git, and a bit of C++
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Languages: `Python`, `C`, `C++`
+- Tools: `Git`, `Jupyter`, `PyTorch`, `OpenCV`, `YOLOv8`
+- Interests: `Computer Vision`, `Applied Mathematics`, `CV/ML Research`
